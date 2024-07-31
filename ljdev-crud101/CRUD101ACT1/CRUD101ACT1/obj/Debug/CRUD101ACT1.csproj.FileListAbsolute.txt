@@ -1,0 +1,374 @@
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\CRUD101ACT1.dll.config
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\CRUD101ACT1.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\CRUD101ACT1.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csc.exe
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csc.exe.config
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csc.rsp
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csi.exe
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csi.exe.config
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csi.rsp
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.AppContext.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Collections.Immutable.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Console.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Globalization.Calendars.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.Compression.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.FileSystem.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Net.Http.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Net.Sockets.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Reflection.Metadata.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.ValueTuple.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.XPath.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\vbc.exe
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\vbc.exe.config
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\vbc.rsp
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\VBCSCompiler.exe
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\roslyn\VBCSCompiler.exe.config
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.Win32.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\netstandard.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.AppContext.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.Concurrent.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.NonGeneric.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.Specialized.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.EventBasedAsync.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.TypeConverter.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Console.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Data.Common.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Contracts.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Debug.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.FileVersionInfo.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Process.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.StackTrace.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Tools.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.TraceSource.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Tracing.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Drawing.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Dynamic.Runtime.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Globalization.Calendars.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Globalization.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Globalization.Extensions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.Compression.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.Compression.ZipFile.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.DriveInfo.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.Watcher.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.IsolatedStorage.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.MemoryMappedFiles.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.Pipes.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.IO.UnmanagedMemoryStream.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.Expressions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.Parallel.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.Queryable.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Http.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.NameResolution.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.NetworkInformation.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Ping.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Requests.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Security.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Sockets.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.WebHeaderCollection.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.WebSockets.Client.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Net.WebSockets.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.ObjectModel.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Reflection.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Reflection.Extensions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Reflection.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Resources.Reader.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Resources.ResourceManager.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Resources.Writer.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Extensions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Handles.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.InteropServices.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Numerics.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Formatters.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Json.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Xml.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Claims.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Algorithms.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Csp.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Encoding.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Primitives.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.X509Certificates.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Principal.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Security.SecureString.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Text.Encoding.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Text.Encoding.Extensions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Text.RegularExpressions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Overlapped.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Tasks.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Tasks.Parallel.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Thread.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.ThreadPool.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Timer.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.ValueTuple.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.ReaderWriter.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XDocument.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XmlDocument.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XmlSerializer.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XPath.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XPath.XDocument.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Antlr3.Runtime.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\C101_Entities.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.Web.Infrastructure.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Newtonsoft.Json.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Helpers.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Optimization.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Razor.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Deployment.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Razor.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\WebGrease.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\C101_Entities.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Helpers.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Optimization.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Razor.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Deployment.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Razor.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Newtonsoft.Json.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Antlr3.Runtime.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.csproj.AssemblyReference.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.csproj.CoreCompileInputs.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.csproj.CopyComplete
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Data.SqlClient.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Data.SqlClient.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\C101_DAL.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Configuration.ConfigurationManager.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\C101_DAL.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Configuration.ConfigurationManager.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.Extensions.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.Extensions.xml
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\C101_BLL.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\CRUD101ACT1\bin\C101_BLL.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\CRUD101ACT1.dll.config
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\CRUD101ACT1.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\CRUD101ACT1.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csc.exe
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csc.exe.config
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csc.rsp
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csi.exe
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csi.exe.config
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\csi.rsp
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.AppContext.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Collections.Immutable.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Console.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Globalization.Calendars.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.Compression.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.FileSystem.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Net.Http.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Net.Sockets.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Reflection.Metadata.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.ValueTuple.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.XPath.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\vbc.exe
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\vbc.exe.config
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\vbc.rsp
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\VBCSCompiler.exe
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\roslyn\VBCSCompiler.exe.config
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.Win32.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\netstandard.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.AppContext.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.Concurrent.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.NonGeneric.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Collections.Specialized.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.EventBasedAsync.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.ComponentModel.TypeConverter.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Console.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Data.Common.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Contracts.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Debug.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.FileVersionInfo.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Process.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.StackTrace.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Tools.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.TraceSource.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Diagnostics.Tracing.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Drawing.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Dynamic.Runtime.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Globalization.Calendars.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Globalization.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Globalization.Extensions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.Compression.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.Compression.ZipFile.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.DriveInfo.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.FileSystem.Watcher.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.IsolatedStorage.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.MemoryMappedFiles.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.Pipes.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.IO.UnmanagedMemoryStream.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.Expressions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.Parallel.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Linq.Queryable.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Http.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.NameResolution.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.NetworkInformation.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Ping.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Requests.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Security.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.Sockets.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.WebHeaderCollection.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.WebSockets.Client.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Net.WebSockets.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.ObjectModel.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Reflection.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Reflection.Extensions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Reflection.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Resources.Reader.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Resources.ResourceManager.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Resources.Writer.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Extensions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Handles.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.InteropServices.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Numerics.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Formatters.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Json.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Runtime.Serialization.Xml.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Claims.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Algorithms.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Csp.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Encoding.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.Primitives.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Cryptography.X509Certificates.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.Principal.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Security.SecureString.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Text.Encoding.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Text.Encoding.Extensions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Text.RegularExpressions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Overlapped.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Tasks.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Tasks.Parallel.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Thread.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.ThreadPool.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Threading.Timer.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.ValueTuple.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.ReaderWriter.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XDocument.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XmlDocument.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XmlSerializer.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XPath.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Xml.XPath.XDocument.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Antlr3.Runtime.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\C101_BLL.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\C101_DAL.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\C101_Entities.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.Web.Infrastructure.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Newtonsoft.Json.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Configuration.ConfigurationManager.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Data.SqlClient.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Helpers.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.Extensions.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Optimization.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Razor.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Deployment.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Razor.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\WebGrease.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\C101_DAL.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\C101_Entities.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\C101_BLL.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Configuration.ConfigurationManager.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Data.SqlClient.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.Extensions.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Helpers.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Mvc.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Optimization.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.Razor.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Deployment.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\System.Web.WebPages.Razor.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Newtonsoft.Json.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Antlr3.Runtime.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.csproj.AssemblyReference.cache
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.csproj.CoreCompileInputs.cache
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.csproj.CopyComplete
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\CRUD101ACT1\obj\Debug\CRUD101ACT1.pdb

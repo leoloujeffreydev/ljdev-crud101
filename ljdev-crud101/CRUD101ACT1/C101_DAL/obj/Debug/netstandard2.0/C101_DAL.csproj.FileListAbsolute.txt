@@ -1,0 +1,26 @@
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.csproj.AssemblyReference.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.AssemblyInfoInputs.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.AssemblyInfo.cs
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.csproj.CoreCompileInputs.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_DAL.deps.json
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_DAL.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_DAL.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_Entities.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_Entities.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.csproj.CopyComplete
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_DAL.deps.json
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_DAL.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_DAL.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_Entities.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\bin\Debug\netstandard2.0\C101_Entities.pdb
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.csproj.AssemblyReference.cache
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.AssemblyInfoInputs.cache
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.AssemblyInfo.cs
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.csproj.CoreCompileInputs.cache
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.csproj.CopyComplete
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.dll
+C:\JEP\PROGRAMMING\GIT 101\leoloujeffreydev_github_repositories\ljdev-crud101\CRUD101ACT1\C101_DAL\obj\Debug\netstandard2.0\C101_DAL.pdb

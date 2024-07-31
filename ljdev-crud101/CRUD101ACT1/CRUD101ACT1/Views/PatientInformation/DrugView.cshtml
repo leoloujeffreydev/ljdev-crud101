@@ -1,0 +1,62 @@
+﻿@*@model IEnumerable<C101_Entities.DrugEntity>*@
+@model IEnumerable<C101_Entities.DrugEntity>
+
+@{
+    ViewBag.Title = "Drugs Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Drugs Information</h2>
+
+<p>
+    @Html.ActionLink("Create New", "AddDrugView")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DRUGID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DRUGNAME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DRUGSTARTDATE)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EXPIRATIONDATE)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DOSAGE)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DRUGID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DRUGNAME)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DRUGSTARTDATE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EXPIRATIONDATE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOSAGE)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+
+    @Html.DropDownList("SelectedDrug", new SelectList(Model, "DRUGID", "DRUGNAME"), "Select a Drug")
+
+</table>

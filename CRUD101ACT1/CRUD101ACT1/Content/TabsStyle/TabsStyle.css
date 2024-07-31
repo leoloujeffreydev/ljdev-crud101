@@ -1,0 +1,61 @@
+﻿/* styles.css */
+
+/* Styles for the tabs section */
+#tabs {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* Styles for the list inside the tabs */
+#tabs ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+/* Styles for each tab item */
+#tabs ul li {
+display: inline;
+}
+
+/* Styles for tab links */
+#tabs ul li a {
+text-decoration: none;
+padding: 5px 10px;
+background-color: #f0f0f0;
+border: 1px solid #ccc;
+border-bottom: none;
+margin-right: 3px;
+}
+
+/* Styles for hovered tab links */
+#tabs ul li a:hover {
+background-color: #e0e0e0;
+}
+
+.date-input-container {
+    display: flex;
+    justify-content: space-between; /* Distribute items evenly along the main axis */
+    /*display: inline-block;*/
+    margin-right: 7in; /* Adjust as needed to control spacing between inputs */
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column; /* Arrange items in a column */
+    align-items: center; /* Center items horizontally */
+    text-align: center; /* Align text inside the group */
+    /*margin-bottom: 10px;  Adjust vertical spacing between groups */
+    margin-right: 20px; /* Adjust as needed to control spacing between .input-group */
+}
+}
+
+.form-control {
+    width: 150px; /* Adjust width as needed */
+    margin-bottom: 5px; /* Adjust vertical spacing between input and button */
+}
+
+button {
+    margin-top: 5px; /* Adjust spacing between input and button */
+    align-self: flex-start; /* Align button to the left within .input-group */
+}

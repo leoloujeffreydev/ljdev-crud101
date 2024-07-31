@@ -1,0 +1,113 @@
+﻿@using C101_Entities
+
+@model IEnumerable<C101_Entities.PatientInformationEntity>
+
+@{
+    //ViewBag.Title = "PATIENT DETAILS";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*VIEW BAG MESSAGE ALERT*@
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <script>
+        alert('@ViewBag.Message');
+    </script>
+}
+
+@*@<h2>@Model.PATIENTNAME</h2>*@
+
+@* HTML markup for the modal *@
+<div class="modal fade" id="apModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="aPModal">Modal Title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>This is a simple modal dialog. You can add any content here.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+@using (Html.BeginForm("PatientInformationView", "PatientInformation", FormMethod.Post, new { id = "PatientInfoForm" }))
+{
+
+    <p>
+        @Html.ActionLink("Create New", "AddPatientView")
+    </p>
+    <p>
+        @Html.ActionLink("Drug List", "DrugView")
+    </p>
+
+    <!--<div class="form-group">
+        <div class="col-md-8">-->
+            <!-- Adjusted column size for the input -->
+            <!--<input type="text" class="form-control" id="txtMenu" title="Enter Here" value="Drug" />
+        </div>
+        <div class="col-md-4">-->
+            <!-- Adjusted column size for the button -->
+            <!--<div class="input-group" id="btnGoMenu">
+                <input type="submit" value="GO" class="btn btn-default" id="Drug"  />
+            </div>
+        </div>
+    </div>-->
+
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PATIENTID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PATIENTNAME)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DRUG)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DOSAGE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DATEMODIFIED)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PATIENTID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PATIENTNAME)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DRUG)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DOSAGE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DATEONLY)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditPatientView", new { id = item.PATIENTID }) |
+                    @Html.ActionLink("Delete", "DeletePatientView", new { id = item.PATIENTID }, new { onclick = "return confirm('Are sure wants to delete?');" })
+                </td>
+            </tr>
+        }
+    </table>
+
+
+}
+
+

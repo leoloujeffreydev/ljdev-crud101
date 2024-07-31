@@ -1,0 +1,10 @@
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\bin\Debug\netstandard2.0\C101_Entities.deps.json
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\bin\Debug\netstandard2.0\C101_Entities.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\bin\Debug\netstandard2.0\C101_Entities.pdb
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.csproj.AssemblyReference.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.AssemblyInfoInputs.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.AssemblyInfo.cs
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.csproj.CoreCompileInputs.cache
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.dll
+C:\JEP\MVC TUTORIAL\MACHINE PROBLEMS\CRUD101ACT1\C101_Entities\obj\Debug\netstandard2.0\C101_Entities.pdb

@@ -1,0 +1,11 @@
+﻿@media print {
+    /* Define print-specific styles */
+    body {
+        font-size: 12pt;
+        line-height: 1.5;
+    }
+    /* Hide elements not relevant for printing */
+    .no-print {
+        display: none;
+    }
+}
